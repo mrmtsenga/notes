@@ -39,6 +39,8 @@ Download the [NSIS Installer](https://github.com/mrmtsenga/notes/releases/downlo
 
 To uninstall, go to `Settings > Apps > Installed Apps` on Windows, or simply "Move to trash" on macOS.
 
+## Getting Started (from Source)
+
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) or [Bun](https://bun.sh/)
